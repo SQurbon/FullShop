@@ -1,8 +1,15 @@
-import React from 'react'
+// import React from 'react'
+// import { Routes } from 'react-router-dom'
+import Navbar from './components/navbar/Navbar'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <Navbar/>
+      {/* <Routes>
+        <Route
+      </Routes> */}
+    </div>
   )
 }
 

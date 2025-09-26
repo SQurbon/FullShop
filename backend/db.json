@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "ism": "Qurbonbek",
+      "yosh": 18,
+      "id": 1
+    },
+    {
+      "ism": "Sunnatulloh",
+      "yosh": 19,
+      "id": 2
+    },
+    {
+      "ism": "Ibrohim",
+      "yosh": 20,
+      "id": 3
+    }
+  ]
+}
